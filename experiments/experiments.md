@@ -13,7 +13,7 @@
 #### Photo of completed project ####
 *In the code below, replace `IMG-6569` with the name of the image, which should be in the `kitexperiments` folder.*
 
-![Image](IMG-6569)
+![Image](IMG-6569.jnp)
 
 (Insert a caption here)
 
