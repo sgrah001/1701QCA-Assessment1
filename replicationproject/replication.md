@@ -113,7 +113,7 @@ This project is related to mine because (insert reasons here).
 
 *There will likely by a dozen or so images of the project under construction. The images should help explain why you've made the choices you've made as well as what you have done. Use the code below to include images, and copy it for each image, updating the information for each.*
 
-![Image](Progressone.jpg)
+![Image](coding1.jpg)
 
 *Include screenshots of the code you have used.*
 
@@ -138,8 +138,6 @@ This project is related to mine because (insert reasons here).
 *Provide some other image that gives a viewer a different perspective on the project such as more about how it functions, the project in use, or something else.*
 
 ![Image](showcase2.jpg)
-
-![Image](coding1.jpg)
 
 ### Reflection ###
 
