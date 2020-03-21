@@ -32,7 +32,7 @@ In the code below, replace imagemissing.jpg with the name of the image, which sh
 
 ![Image](experiment6.jpg)
 
-(Insert a caption here)
+(bread-board for experiment 6)
 
 #### Reflection ####
 
@@ -49,7 +49,7 @@ In the code below, replace imagemissing.jpg with the name of the image, which sh
 
 ![Image](experiment8.jpg)
 
-(Insert a caption here)
+(bread-board for experiment 8)
 
 #### Reflection ####
 
@@ -66,7 +66,7 @@ In the code below, replace imagemissing.jpg with the name of the image, which sh
 
 ![Image](experiment1.jpg)
 
-(Insert a caption here)
+(bread-board for experiment 1)
 
 #### Reflection ####
 
@@ -83,7 +83,7 @@ In the code below, replace imagemissing.jpg with the name of the image, which sh
 
 ![Image](experiment3.jpg)
 
-(Insert a caption here)
+(bread-board for experiment 3)
 
 #### Reflection ####
 
