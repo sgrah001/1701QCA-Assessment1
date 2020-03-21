@@ -6,16 +6,16 @@
 
 *For a selection of 5 inventor kit experiments that you choose, fill out the following sections.
 
-### Experiment name ###
+### USING A LIGHT SENSOR AND ANALOG INPUTS ###
 
-(Experiment 3- Dimming and led using a potentiometer)
+(Experiment 2)
 
 #### Photo of completed project ####
 *In the code below, replace `IMG-6569` with the name of the image, which should be in the `kitexperiments` folder.*
 
 ![Image](Experimentone.png.jpg)
 
-(Insert a caption here)
+(bread-board for experiment 2)
 
 #### Reflection ####
 
