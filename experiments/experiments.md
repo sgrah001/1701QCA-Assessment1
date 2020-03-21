@@ -19,13 +19,30 @@
 
 #### Reflection ####
 
-In this experiment, something new to me was or something I learned was (insert something here).
+In this experiment, something new to me was or something I learned was how to use my first type of sensor.
 
-This experiment could be the basis of a real world application such as (insert something here).
+This experiment could be the basis of a real world application such as, installing a light dimmer in a globe.
 
-### Experiment name ###
+### SETTING THE TONE WITH A PIEZO BUZZER ###
 
-(Replace this with the experiment name)
+(experiment 6)
+
+#### Photo of completed project ####
+In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
+
+![Image](missingimage.png)
+
+(Insert a caption here)
+
+#### Reflection ####
+
+In this experiment, something new to me was or something I learned was how to use the music blocks.
+
+This experiment could be the basis of a real world application such as creating music.
+
+### MAKING A GAME USING THE COMPASS ###
+
+(experiment 8)
 
 #### Photo of completed project ####
 In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
@@ -40,26 +57,9 @@ In this experiment, something new to me was or something I learned was (insert s
 
 This experiment could be the basis of a real world application such as (insert something here).
 
-### Experiment name ###
+### SAT'HELLO' TO THE BBC MICRO:BIT ###
 
-(Replace this with the experiment name)
-
-#### Photo of completed project ####
-In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
-
-![Image](missingimage.png)
-
-(Insert a caption here)
-
-#### Reflection ####
-
-In this experiment, something new to me was or something I learned was (insert something here).
-
-This experiment could be the basis of a real world application such as (insert something here).
-
-### Experiment name ###
-
-(Replace this with the experiment name)
+(experiment 1)
 
 #### Photo of completed project ####
 In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
