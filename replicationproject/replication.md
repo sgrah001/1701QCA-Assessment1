@@ -114,12 +114,15 @@ This project is related to mine because (insert reasons here).
 *There will likely by a dozen or so images of the project under construction. The images should help explain why you've made the choices you've made as well as what you have done. Use the code below to include images, and copy it for each image, updating the information for each.*
 
 ![Image](coding1.PNG)
+First I used the Micro-Bit site to create the coding for the project, testing diffrent blocks to see what sort of sensor I could use that would work similarly to the tempreture gauge.When I attached the breadboard I used alot of the trial and error technique until i was able to move the servo in segments of 180 degrees. 
 
-![Image](coding1.PNG)
+![Image](pro1.jpg)
+To display the numbers that the arrow attched to the servo was pointing at,I cut up a cardboard to create a gauge.
 
-![Image](coding1.PNG)
+![Image](pro2.jpg)
 
-![Image](coding1.PNG)
+![Image](pro3.jpg)
+Through the back of the gauge, I attched the servo. Before starting up the project i had to make sure the servo and zero degress were alighned, in order to get an accurate reading.
 *Include screenshots of the code you have used.*
 
 ## Project outcome ##
@@ -146,13 +149,13 @@ This project is related to mine because (insert reasons here).
 
 ### Reflection ###
 
-*Describe the parts of your project you felt were most successful and the parts that could have done with improvement, whether in terms of outcome, process, or understanding.*
+*The parts of the project that I felt were most sucsessful were the coding being able to programmed to stop and start at the press of button A and B. However,the parts that needed more work were mainly due to the servo not working properly. The servo struggled to move during most tests and twitched when landing on each number.*
 
 
-*What techniques, approaches, skills, or information did you find useful from other sources (such as the related projects you identified earlier)?*
+*The sources I found most helpful when creating my project were videos online showing how to measure using diffrent sensors and the micro-bit manual. These gave me the direction and insight that I needed to use the tools I was provided with and understand how to use them*
 
 
-*What ideas have you read, heard, or seen that informed your thinking on this project? (Provide references.)*
+*The ideas that helped me with creating my project come from alot of diffrent sources. For the majority of my project I used the micro-bit munual to learn the simple steps to using the mirco.bit site and created the coding through trialing diffrent blocks. I also used alot of youtube videos of other people making sensory projects using micro-bit, that guided me in the right direction. Such as (https://www.youtube.com/watch?v=px_TGk7_XSQ)*
 
 
-*What might be an interesting extension of this project? In what other contexts might this project be used?*
+*An intresting extention to this project might be to switch the servo to one that moves 360 degree's and have the numbers going up to 20 instead of 10. This could be used in the context of a spinner in a game show, that indicates a number generated from a computer*
