@@ -20,11 +20,11 @@
 This project is related to mine because (insert reasons here).
 
 ### Related project 2 ###
-(Insert name of project)
+(Making a micro-bit compass)
 
-(Insert URL to project)
+(https://www.youtube.com/watch?v=tzK1AKUiGy0)
 
-![Image](missingimage.png)
+![Image](related2.PNG)
 
 This project is related to mine because (insert reasons here).
 
