@@ -38,11 +38,11 @@ This project is related to mine because (insert reasons here).
 This project is related to mine because (insert reasons here).
 
 ### Related project 4 ###
-(Insert name of project)
+(Simple Moisture Sensor Using BBC Micro:Bit)
 
-(Insert URL to project)
+(https://www.youtube.com/watch?v=rLNh1ph18Rs)
 
-![Image](missingimage.png)
+![Image](related4.PNG)
 
 This project is related to mine because (insert reasons here).
 
