@@ -56,11 +56,11 @@ This project is related to mine because (insert reasons here).
 This project is related to mine because (insert reasons here).
 
 ### Related project 6 ###
-(Insert name of project)
+(How to Create Your Own Micro:bit Motion Detector)
 
-(Insert URL to project)
+(https://www.youtube.com/watch?v=7rBuhUxtuV8)
 
-![Image](missingimage.png)
+![Image](related6.PNG)
 
 This project is related to mine because (insert reasons here).
 
