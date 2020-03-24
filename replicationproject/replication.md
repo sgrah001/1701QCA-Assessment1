@@ -47,11 +47,11 @@ This project is related to mine because (insert reasons here).
 This project is related to mine because (insert reasons here).
 
 ### Related project 5 ###
-(Insert name of project)
+(Making a micro:bit thermometer)
 
-(Insert URL to project)
+(https://www.youtube.com/watch?v=-fZm1JCvxlE)
 
-![Image](missingimage.png)
+![Image](related5.PNG)
 
 This project is related to mine because (insert reasons here).
 
