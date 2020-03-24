@@ -29,11 +29,11 @@ This project is related to mine because (insert reasons here).
 This project is related to mine because (insert reasons here).
 
 ### Related project 3 ###
-(Insert name of project)
+(Micro-Bit Smoke Sensor)
 
-(Insert URL to project)
+(https://www.youtube.com/watch?v=9R0m2wuE5pI)
 
-![Image](missingimage.png)
+![Image](related3.PNG)
 
 This project is related to mine because (insert reasons here).
 
