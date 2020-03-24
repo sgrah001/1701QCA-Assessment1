@@ -115,6 +115,11 @@ This project is related to mine because (insert reasons here).
 
 ![Image](coding1.PNG)
 
+![Image](coding1.PNG)
+
+![Image](coding1.PNG)
+
+![Image](coding1.PNG)
 *Include screenshots of the code you have used.*
 
 ## Project outcome ##
