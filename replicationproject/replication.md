@@ -71,33 +71,33 @@ This project is related to mine because (insert reasons here).
 
 ### Reading: Don Norman, The Design of Everyday Things, Chapter 1 (The Psychopathology of Everyday Things) ###
 
-*What I thought before: Describe something that you thought or believed before you read the source that was challenged by the reading.*
+*What I thought before: My knowledge on how incoperated interaction is in our day to day lives has been challenged. Before reading this article i was not aware that interaction is in everting we do and what that means.*
 
-*What I learned: Describe what you now know or believe as a result of the reading. Don't just describe the reading: write about what changed in YOUR knowledge.*
+*What I learned: Describe what you now know or believe as a result of the reading. Don't just describe the reading: I now believe that we can change the way people interact with pretty much everything through defining the afffordances and signifiers of objects and how they relate to human interaction.*
 
-*What I would like to know more about: Describe or write a question about something that you would be interested in knowing more about.*
+*What I would like to know more about: I would like to know more about the history of the term affordances and who came up with it?.*
 
-*How this relates to the project I am working on: Describe the connection between the ideas in the reading and one of your current projects or how ideas in the reading could be used to improve your project.*
+*How this relates to the project I am working on: This connects with my number indictor project, as I used the A and B buttons to start and stop my servo, which directly aligns with the idea of afforances and signifiers.*
 
 ### Reading: Chapter 1 of Dan Saffer, Microinteractions: Designing with Details, Chapter 1 ###
 
-*What I thought before: Describe something that you thought or believed before you read the source that was challenged by the reading.*
+*What I thought before: Before the reading I thought that all technoloy was made as one big project that wasnt broken down into that many parts, that you could change to suit consumers demands.*
 
-*What I learned: Describe what you now know or believe as a result of the reading. Don't just describe the reading: write about what changed in YOUR knowledge.*
+*What I learned: Through this reading I have learnt that microinteractions allow for parts of a product to not only be used for a single use purpose and allow for the changes of small parts of the intierty of a product to make it more suitable for a consumer.*
 
-*What I would like to know more about: Describe or write a question about something that you would be interested in knowing more about.*
+*What I would like to know more about: I would like to know more about how microinteractions are used in products that I use in my day to day life, in order to understand what they are better.*
 
-*How this relates to the project I am working on: Describe the connection between the ideas in the reading and one of your current projects or how ideas in the reading could be used to improve your project.*
+*How this relates to the project I am working on: The connection between the ideas in the reading and my current projects that could used to improve my project are the idea that smaller parts of an overall product, my number indicator can include microinteractions to make insignificant changes create a more pratical product.*
 
 ### Reading: Scott Sullivan, Prototyping Interactive Objects ###
 
-*What I thought before: Describe something that you thought or believed before you read the source that was challenged by the reading.*
+*What I thought before: Something that I thought before reading this source was that there wasnt as much underlying technology then there actually is in interactive media. I didnt know you could sketch out the final product of a design before even starting*
 
-*What I learned: Describe what you now know or believe as a result of the reading. Don't just describe the reading: write about what changed in YOUR knowledge.*
+*What I learned: What I now know and believe after reading this article is that tecnology is constantly changing and emerging to suit consumer expectations. Digital tool are constantly advancing in order to keep up with consumer expectations and todays technological society.* 
 
-*What I would like to know more about: Describe or write a question about something that you would be interested in knowing more about.*
+*What I would like to know more about: After finishing this reading, something I would like to know more about is the sensory technology used in coding, as it realtes to my project and branches out into many diffrent feilds.*
 
-*How this relates to the project I am working on: Describe the connection between the ideas in the reading and one of your current projects or how ideas in the reading could be used to improve your project.*
+*How this relates to the project I am working on: The reading talks about emerging technoloy such as sensory coding, which is the basis of my project. It talks of the emerging technologies and the fact that sensory coding is one of them.*
 
 
 ## Interaction flowchart ##
